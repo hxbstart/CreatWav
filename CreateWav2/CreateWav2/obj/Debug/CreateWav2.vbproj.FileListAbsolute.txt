@@ -1,0 +1,10 @@
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\bin\Debug\CreateWav2.exe
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\bin\Debug\CreateWav2.pdb
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\bin\Debug\CreateWav2.xml
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\obj\Debug\CreateWav2.Form1.resources
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\obj\Debug\CreateWav2.Resources.resources
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\obj\Debug\CreateWav2.vbproj.GenerateResource.Cache
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\obj\Debug\CreateWav2.exe
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\obj\Debug\CreateWav2.xml
+c:\users\hxb\documents\visual studio 2015\Projects\CreateWav2\CreateWav2\obj\Debug\CreateWav2.pdb
+C:\Users\hxb\Documents\Visual Studio 2015\Projects\CreateWav2\CreateWav2\obj\Debug\CreateWav2.vbprojResolveAssemblyReference.cache
